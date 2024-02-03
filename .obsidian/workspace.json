@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "25dd4b6699efa536",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2be2d3707034f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f998c76ea30021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-28-first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59e00d6a1062d89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "62879b1396812e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9840354c6f10c4f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3de40943b8bd49ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d4dfbaeea40af3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45758ee98bd3dd76",
+    "type": "split",
+    "children": [
+      {
+        "id": "62cd7cdfa998479d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "793df7c198f2d7ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-01-28-first.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00d29a361674fa6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-01-28-first.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fcd53de93f505db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02900e8763b77ef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-01-28-first.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "03f998c76ea30021",
+  "lastOpenFiles": [
+    "_site/assets/images/SangsDev.png",
+    "_site/assets/images",
+    "assets/images/SangsDev.png",
+    "_site/assets/images/SANG’S Dev.png",
+    "assets/images/SANG’S Dev.png",
+    "assets/images",
+    "_site/assets/js/lunr/lunr.js",
+    "_site/assets/js/lunr/lunr.min.js",
+    "_site/assets/js/lunr/lunr-gr.js",
+    "_site/assets/js/lunr/lunr-store.js",
+    "_site/assets/js/lunr/lunr-en.js",
+    "_site/assets/js/lunr",
+    "_site/assets/css/main.css.map",
+    "_site/assets/js/main.min.js",
+    "_site/screenshot.png",
+    "_site/screenshot-layouts.png",
+    "KakaoTalk_20240126_033743552.jpg",
+    "_posts/2024-01-28-first.md",
+    "images/KakaoTalk_20240126_033743552.jpg",
+    "images/2024-01-28-first/KakaoTalk_20240126_033743552.jpg",
+    "README.md",
+    "screenshot.png",
+    "screenshot-layouts.png"
+  ]
+}
